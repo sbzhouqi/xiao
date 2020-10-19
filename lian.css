@@ -1,0 +1,28 @@
+{margin: 0;padding: 0;}
+body{background-color: #ededed;
+    font-family: "楷体";
+	color: #A5A5A5;
+	}
+.header{width:980px;
+        margin: 0 auto 7px;
+		line-height: 86px;
+		text-align:center;
+		font-family:"微软雅黑";
+		color:#a5a5a5;
+		}
+		.r{
+			text-align: left;
+			line-height:normal;
+			text-align:center;
+		}
+		.q{
+			background-image: url(13.jpg);
+			background-repeat: no-repeat;
+			background-size: 980px 980px;
+			height: 980px;
+			font-size: 80px;
+			color: #EDEDED;
+			padding: 80px;
+			line-height:normal;
+			
+		}
